@@ -2,3 +2,6 @@ menu hari senin :
 - sayur bayam
 - tempe goyeng
 - ayam gepyek
+hari selasa :
+- Nasi goreng
+- ayam panggang
